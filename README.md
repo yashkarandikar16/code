@@ -1,2 +1,1 @@
-# code
-code 3rd sem
+C code
